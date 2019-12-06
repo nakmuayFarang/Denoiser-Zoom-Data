@@ -1,5 +1,5 @@
 # Denoiser-Zoom-Data
-Use AI to transform a pixelated image into a beatiful picture
+Use AI to transform a blurry image into a beatiful picture
 
 
 Script preprocessingPhoto: Create a pixelated version of each picture.
@@ -14,4 +14,4 @@ Script model1:
 Script model2:
 - Add BatchNormalisation after the last VGG16 layer
 
-
+![alt text](https://github.com/nakmuayFarang/Denoiser-Zoom-Data/blob/master/Test2/comparisonBetweenModel2.png)
