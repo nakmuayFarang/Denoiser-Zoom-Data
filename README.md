@@ -1,5 +1,5 @@
 # Denoiser-Zoom-Data
-Use AI to transform a blurry image into a beatiful picture
+Use AI to transform a blurry image into a smooth picture
 
 
 Script preprocessingPhoto: Create a pixelated version of each picture.
